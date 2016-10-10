@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">networkDemo</string>
+    <string name="info">Info ...</string>
+    <string name="status_connection">Check connection</string>
+    <string name="download_image_http_async_task">Download image over HTTP (AsyncTask)</string>
+    <string name="download_xml_http_async_task">Download XML over HTTP (AsyncTask)</string>
+</resources>
